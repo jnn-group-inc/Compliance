@@ -1,0 +1,5 @@
+name: eightspokes
+filePrefix: eightspokes
+tickets:
+  github: {}
+approvedBranch: ""
