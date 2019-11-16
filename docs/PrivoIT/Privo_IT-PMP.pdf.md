@@ -17,7 +17,7 @@ Table: Control satisfaction
 
 |Date|Comment|
 |---+--------------------------------------------|
-| Sept 19 2018 | Initial document |
+| Sept 20 2018 | Initial document |
 
 Table: Document history
 
